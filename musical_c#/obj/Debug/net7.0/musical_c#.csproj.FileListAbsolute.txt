@@ -1,0 +1,15 @@
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\bin\Debug\net7.0\musical_c#.exe
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\bin\Debug\net7.0\musical_c#.deps.json
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\bin\Debug\net7.0\musical_c#.runtimeconfig.json
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\bin\Debug\net7.0\musical_c#.dll
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\bin\Debug\net7.0\musical_c#.pdb
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.csproj.AssemblyReference.cache
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.AssemblyInfoInputs.cache
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.AssemblyInfo.cs
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.csproj.CoreCompileInputs.cache
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.dll
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\refint\musical_c#.dll
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.pdb
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\musical_c#.genruntimeconfig.cache
+C:\Users\macarneiro\OneDrive - Stefanini\Desktop\alura_projects\musical_c#\obj\Debug\net7.0\ref\musical_c#.dll
